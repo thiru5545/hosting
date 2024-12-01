@@ -1,0 +1,9 @@
+.carousel-container {
+    width: 100vw; /* Full viewport width */
+    overflow: hidden;
+}
+  
+.carousel-image {
+    height: 100vh; /* Full viewport height */
+    object-fit: cover; /* Ensures the image covers the entire carousel item */
+}
