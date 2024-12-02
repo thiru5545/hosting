@@ -7,7 +7,7 @@ import AdminPage from "./pages/AdminPage";
 import CategoryPage from "./pages/CategoryPage";
 
 import Navbar from "./components/Navbar";
-import DeliveryNote from "./components/note";
+import DeliveryNote from "./components/Note";
 import { Toaster } from "react-hot-toast";
 import { useUserStore } from "./stores/useUserStore";
 import { useEffect } from "react";
