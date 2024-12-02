@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 import AnalyticsTab from "../components/AnalyticsTab";
 import CreateProductForm from "../components/CreateProductForm";
-import CreateCategoryForm from "../components/createCategoryForm";
+import CreateCategoryForm from "../components/CreateCategoryForm";
 import ProductsList from "../components/ProductsList";
 import OrdersStatus from "../components/OrdersStatus";
 import { useProductStore } from "../stores/useProductStore";
